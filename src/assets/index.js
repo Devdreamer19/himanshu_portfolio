@@ -36,7 +36,7 @@ import letscode from "./letscode.png";
 import Cisco from "./Cisco.png";
 import jpmc from "./jpmc.png";
 import postmanapi_ai from "./postmanapi_ai.png";
-import app_dev_intern_Bangalore from "./app_dev_intern_Bangalore.png";
+//import app_dev_intern_Bangalore from "./app_dev_intern_Bangalore.png";
 import strtupedia_24 from "./strtupedia_24.png";
 import vnrvjiet_logo from "./vnrvjiet_logo.png";
 import reactnative_dev_Bangalore from "./reactnative_dev_Bangalore.png";
@@ -110,7 +110,6 @@ export {
   letscode,
   Cisco,
   postmanapi_ai,
-  app_dev_intern_Bangalore,
   strtupedia_24,
   vnrvjiet_logo,
   reactnative_dev_Bangalore,

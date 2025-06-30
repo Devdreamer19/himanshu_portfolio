@@ -34,7 +34,6 @@ import {
   letscode,
   Turing_Cup_Finalist,
   postmanapi_ai,
-  app_dev_intern_Bangalore,
   strtupedia_24,
   vnrvjiet_logo,
   reactnative_dev_Bangalore,
