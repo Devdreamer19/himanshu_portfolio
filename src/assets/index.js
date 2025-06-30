@@ -39,7 +39,7 @@ import postmanapi_ai from "./postmanapi_ai.png";
 //import app_dev_intern_Bangalore from "./app_dev_intern_Bangalore.png";
 import strtupedia_24 from "./strtupedia_24.png";
 import vnrvjiet_logo from "./vnrvjiet_logo.png";
-import reactnative_dev_Bangalore from "./reactnative_dev_Bangalore.png";
+import reactnative_dev_bangalore from "./reactnative_dev_bangalore.png";
 import gamma_club from "./gamma_club.png";
 import algo_u from "./algo_u.png";
 import sql_basic_certificate_hackerrank from "./sql_basic_certificate_hackerrank.png";
@@ -112,7 +112,7 @@ export {
   postmanapi_ai,
   strtupedia_24,
   vnrvjiet_logo,
-  reactnative_dev_Bangalore,
+  reactnative_dev_bangalore,
   gamma_club,
   algo_u,
   sql_basic_certificate_hackerrank,
