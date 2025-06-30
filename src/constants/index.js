@@ -36,7 +36,7 @@ import {
   postmanapi_ai,
   strtupedia_24,
   vnrvjiet_logo,
-  reactnative_dev_Bangalore,
+  reactnative_dev_bangalore,
   gamma_club,
   algo_u,
   sql_basic_certificate_hackerrank,
@@ -286,7 +286,7 @@ const certificates = [
   },
   {
     name: "App Development Internship- Muddenahalli, Bangalore",
-    image: reactnative_dev_Bangalore,
+    image: reactnative_dev_bangalore,
     link: "https://drive.google.com/file/d/1441RJCIQEUWaaP3Wl9Az4KtGVy0IssHV/view?usp=sharing",
   },
   {
@@ -321,7 +321,7 @@ const projects = [
       { name: "Vite", color: "pink-text-gradient" },
     ],
     image: port,
-    source_code_link: "https://github.com/HimanshuB-19/Portfolio.git",
+    source_code_link: "https://github.com/Devdreamer19/himanshu_portfolio.git",
   },
   {
     name: "Smart Traffic Management System",
