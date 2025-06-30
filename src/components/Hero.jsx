@@ -67,7 +67,7 @@ const Hero = () => {
             {/* Row 2: Buttons */}
             <div className="flex gap-4 justify-center lg:justify-start mt-4">
               <a
-                href="ttps://drive.google.com/file/d/1WrvKpgwy7AwIXRAn3xZIoWbp4P0PCJAL/view?usp=sharing"
+                href="https://drive.google.com/file/d/1QmQvZeMQTrltBo2iP2vku6R0EOxz6lV6/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
